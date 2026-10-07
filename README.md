@@ -1,10 +1,8 @@
-# Hi, I'm Pratik Hagawane 👋
-
-**B.Tech — College of Engineering, Pune · M.Tech — IIT Kharagpur**
+# Hi, I'm Pratik Gajanan 👋
 
 Credit-risk & strategy analytics professional | Independent social-science researcher
 
-I build code-driven analytics around **credit risk, collections, and capital markets**, and I run public data research at the intersection of **generational values and statistics** — because rigor beats a "Gen Z vibes" post every time.
+I build code-driven analytics around **credit risk, collections, and capital markets**, and I run public data research at the intersection of **generational values and statistics**
 
 ---
 
